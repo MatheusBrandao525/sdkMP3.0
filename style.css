@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row-container{
+    background-color: #f1b5b8;
+    border-radius: 20px;
+    padding: 4rem;
+}
+
+.bg-dark {
+    background-color: #333333;
+    color: white;
+  }
